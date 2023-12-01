@@ -63,6 +63,7 @@ public class PuertoEspacial {
         double x2 = destino.radio*Math.sin(destino.azimut)*Math.cos(destino.polar);
         double y2 = destino.radio*Math.sin(destino.azimut)*Math.sin(destino.polar);
         double z2 = destino.radio*Math.cos(destino.azimut);
+
         double x1 = radio*Math.sin(azimut)*Math.cos(polar);
         double y1 = radio*Math.sin(azimut)*Math.sin(polar);
         double z1 = radio*Math.cos(azimut);

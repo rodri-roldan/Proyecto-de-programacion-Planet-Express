@@ -90,11 +90,7 @@ public class Porte {
     }
     // TODO: ¿Están llenos todos los huecos?
     public boolean porteLleno() {
-        boolean resultado = false;
-        if (numHuecosLibres() != huecos.length){
-            resultado = true;
-        }
-        return resultado;
+        return numHuecosLibres() != huecos.length;
     }
     // TODO: ¿Está ocupado el hueco consultado?
     public boolean huecoOcupado(int fila, int columna) {
@@ -113,8 +109,12 @@ public class Porte {
      * @return el objeto Envio que corresponde, o null si está libre o se excede en el límite de fila y columna
      */
     public Envio buscarEnvio(int fila, int columna) {
+        boolean envio = huecos[fila][columna];
+        if (!envio){
+            return null;
+        }
 
-        return null;
+        return new Envio(fila,columna);
     }
 
 
@@ -168,9 +168,7 @@ public class Porte {
      * @return
      */
     public boolean coincide(String codigoOrigen, String codigoDestino, Fecha fecha) {
-        if (equals(codigoDestino,codigoOrigen) && equals(codigoOrigen,fecha.toString())) {
-            return true;
-        }else return  false;
+        return codigoOrigen.equals(codigoDestino) && fecha.coincide(salida);
     }
 
 
@@ -215,13 +213,15 @@ public class Porte {
      * @param fichero
      * @return
      */
-    public boolean generarListaEnvios(String fichero) {
-        PrintWriter pw = null;
+    public boolean generarListaEnvios(String fichero){ //probablemente esté mal
+        PrintWriter salidaFichero = null;
         try {
-
+            salidaFichero.print(fichero);
             return true;
         } catch (FileNotFoundException e) {
             return false;
+        } finally {
+            salidaFichero.close();
         }
     }
 
@@ -237,7 +237,7 @@ public class Porte {
         String parteAlfabetica = "PM";
         String ID = parteAlfabetica;
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             int aleatorio = rand.nextInt(10);
             String parteNumerica = String.valueOf(aleatorio);
             ID += parteNumerica;
@@ -257,11 +257,23 @@ public class Porte {
      * @param portes
      * @return
      */
-    public static Porte altaPorte(Scanner teclado, Random rand,
-                                  ListaPuertosEspaciales puertosEspaciales,
-                                  ListaNaves naves,
-                                  ListaPortes portes) {
+    public static Porte altaPorte(Scanner teclado, Random rand, ListaPuertosEspaciales puertosEspaciales, ListaNaves naves, ListaPortes portes) {
 
-        return null;
+        PuertoEspacial origen = puertosEspaciales.seleccionarPuertoEspacial(teclado, "Ingrese código de puerto Origen: ");
+        //Determinar de que muelle sale
+        PuertoEspacial destino = puertosEspaciales.seleccionarPuertoEspacial(teclado, "Ingrese código de puerto Origen: ");
+
+        String id = generarID(rand);
+        Utilidades.leerNumero(teclado, "Ingrese Terminal Destino (1 - 6): ",1,6);
+
+        System.out.println("\t"+naves);
+        naves.buscarNave(Utilidades.leerCadena(teclado, "Ingrese matrícula de la nave: "));
+
+        Nave nave = new Nave();
+
+
+
+        return new Porte(id, nave, origen, ListaPuertosEspaciales, naves, destino, portes);
     }
 }
+//String id, Nave nave, PuertoEspacial origen, int muelleOrigen, Fecha salida, PuertoEspacial destino, int muelleDestino, Fecha llegada, double precio
