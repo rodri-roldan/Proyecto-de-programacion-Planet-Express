@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ee10ebd-faee-4692-8003-30ddcbc35a1c" name="Changes" comment="Version 24/11/23 14:24">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Planet-Express.git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Porte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Porte.java" afterDir="false" />
+    </list>
+    <list id="01bc52b0-f452-420c-b8a6-f4a70b4f814b" name="Changes by bu0206" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Porte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Porte.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/Porte.java">
+      <ranges>
+        <range start1="6" end1="7" start2="6" end2="9" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="8" end1="10" start2="10" end2="12" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="26" end1="27" start2="28" end2="29" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="28" end1="37" start2="30" end2="39" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="48" end1="48" start2="50" end2="57" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="50" end1="50" start2="59" end2="63" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="53" end1="53" start2="66" end2="70" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="56" end1="56" start2="73" end2="77" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="59" end1="59" start2="80" end2="84" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="62" end1="62" start2="87" end2="91" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="65" end1="65" start2="94" end2="98" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="68" end1="68" start2="101" end2="105" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="71" end1="71" start2="108" end2="112" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="74" end1="74" start2="115" end2="119" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="77" end1="78" start2="122" end2="126" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="90" end1="91" start2="138" end2="142" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="92" end1="97" start2="143" end2="144" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="98" end1="99" start2="145" end2="152" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="100" end1="102" start2="153" end2="160" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="103" end1="103" start2="161" end2="166" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="107" end1="107" start2="170" end2="187" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="109" end1="112" start2="189" end2="192" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="115" end1="117" start2="195" end2="197" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="121" end1="122" start2="201" end2="202" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="123" end1="125" start2="203" end2="205" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="127" end1="129" start2="207" end2="213" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="133" end1="136" start2="217" end2="221" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="138" end1="140" start2="223" end2="230" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="143" end1="146" start2="233" end2="235" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="148" end1="149" start2="237" end2="240" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="154" end1="156" start2="245" end2="247" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="158" end1="159" start2="249" end2="258" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="163" end1="167" start2="262" end2="266" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="170" end1="173" start2="269" end2="270" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="177" end1="184" start2="274" end2="281" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="201" end1="202" start2="298" end2="299" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="203" end1="204" start2="300" end2="301" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="212" end1="216" start2="309" end2="313" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="217" end1="219" start2="314" end2="316" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="220" end1="221" start2="317" end2="324" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="223" end1="223" start2="326" end2="327" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="224" end1="224" start2="328" end2="331" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="229" end1="230" start2="336" end2="337" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="232" end1="233" start2="339" end2="340" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="239" end1="240" start2="346" end2="347" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="248" end1="258" start2="355" end2="365" changelist="01bc52b0-f452-420c-b8a6-f4a70b4f814b" />
+        <range start1="259" end1="265" start2="366" end2="398" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+        <range start1="267" end1="267" start2="400" end2="401" changelist="9ee10ebd-faee-4692-8003-30ddcbc35a1c" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YcPc3GIOZrDXtU18VKWF9MM28A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bossi/OneDrive/Escritorio/Universidad/1er Cuatrimestre/Programación/Prácticas -Rodrigo Roldán bu0117 IWSIM12/FP Practica 4/FP Practica 4 - Arrays y Ficheros",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PlanetExpress" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PlanetExpress" />
+      <module name="Planet-Express.git" />
+      <option name="PROGRAM_PARAMETERS" value="5 5 11 6 6 puertos.txt naves.txt portes.txt clientes.txt envios.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ee10ebd-faee-4692-8003-30ddcbc35a1c" name="Changes" comment="" />
+      <created>1700821973146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700821973146</updated>
+      <workItem from="1700821974186" duration="8217000" />
+      <workItem from="1700832655784" duration="35000" />
+      <workItem from="1700832711685" duration="80000" />
+      <workItem from="1700832802445" duration="20000" />
+      <workItem from="1700832835700" duration="50000" />
+      <workItem from="1700832912648" duration="11000" />
+      <workItem from="1700851713018" duration="316000" />
+      <workItem from="1701245958744" duration="12861000" />
+      <workItem from="1701339148875" duration="4240000" />
+      <workItem from="1701428695406" duration="3463000" />
+      <workItem from="1701816689542" duration="81000" />
+      <workItem from="1702288817760" duration="6768000" />
+      <workItem from="1702375799000" duration="6172000" />
+      <workItem from="1702455545712" duration="6358000" />
+      <workItem from="1702635304755" duration="376000" />
+      <workItem from="1702635698558" duration="11594000" />
+      <workItem from="1703060213331" duration="18792000" />
+      <workItem from="1703088874753" duration="8443000" />
+      <workItem from="1703178810985" duration="5878000" />
+      <workItem from="1703239654809" duration="13141000" />
+      <workItem from="1703352016613" duration="1891000" />
+      <workItem from="1703440373780" duration="847000" />
+    </task>
+    <task id="LOCAL-00001" summary="Version 24/11/23 14:24">
+      <option name="closed" value="true" />
+      <created>1700832302336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700832302336</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 24/11/23 14:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 24/11/23 14:24" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="e" />
+        <watch expression="((Porte)this).huecos" custom="Porte" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

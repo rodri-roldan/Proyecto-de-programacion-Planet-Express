@@ -1,0 +1,5 @@
+Mercury Station;MS-1;0.387;0.73;0.85;4;
+Venus Station;VS-1;0.723;0.22;0.666;6;
+Earth Station;ES-1;0.36;0.78;0.874;8;
+Mars Station;MS-2;0.524;0.1;0.99;5;
+Jupiter Station;JS-1;0.33;0.69;0.42;10;
